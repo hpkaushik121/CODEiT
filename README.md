@@ -17,7 +17,7 @@ questions
 end
 <br>
 
-### page no. 1(registraion)
+### page no. 1(registration)
 
 ![image](https://user-images.githubusercontent.com/28813274/30313473-225a93d6-97bb-11e7-9e61-88a26ad3d19b.png)
 
